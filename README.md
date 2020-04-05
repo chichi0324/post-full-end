@@ -13,12 +13,12 @@ Angular7 + Spring Boot2 + Spring Security +JWT +Spring REST
 npm install -g @angular/cli
 ng version 確認版本 >= 7
 
-3-1. 安裝 VSCode https://code.visualstudio.com/
-3-2. 安裝 Angular Extension Pack https://marketplace.visualstudio.com/items?itemName=doggy8088.angular-extension-pack
+3-1. 安裝 VSCode https://code.visualstudio.com/ <br>
+3-2. 安裝 Angular Extension Pack https://marketplace.visualstudio.com/items?itemName=doggy8088.angular-extension-pack <br>
 
 4. 啟動專案
 ng new hello-ng --defaults=true
-cd post-full-end/ng-spring-blog-frontend-master
+cd post-full-end/ng-spring-blog-frontend
 npm start
 連線至 http://localhost:4200/ 即可看到 Angular 畫面
 
@@ -27,7 +27,7 @@ PS. 可測試帳密：jenny/test12
 
 ## Spring boot安裝環境及啟動
 
-cd post-full-end/spring-ng-blog-master
+cd post-full-end/spring-ng-blog
 
 1. 打包指令 
 ./mvnw package
