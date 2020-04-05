@@ -21,7 +21,6 @@ https://code.visualstudio.com/ <br>
 https://marketplace.visualstudio.com/items?itemName=doggy8088.angular-extension-pack <br>
 
 5. 啟動專案 <br>
-ng new hello-ng --defaults=true <br>
 cd post-full-end/ng-spring-blog-frontend <br>
 npm start <br>
 連線至 http://localhost:4200/ 即可看到 Angular 畫面 <br>
@@ -35,7 +34,7 @@ cd post-full-end/spring-ng-blog <br>
 ./mvnw package
 
 2. 啟動指令
-./mvnw spring-boot:run <br>
+./mvnw spring-boot:run <br><br><br>
 
 
 PS. 可測試帳密：jenny/test12 <br>
